@@ -1,2 +1,4 @@
 # hello-world
-My first development at GitHub
+
+Hello World, 
+This is my first development at GitHub!
